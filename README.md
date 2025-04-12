@@ -3,3 +3,6 @@
 
 #01_expressions: https://colab.research.google.com/drive/1LOmjBOcx34j6zv2Hgj4vlAFFma5o-kHG?usp=sharing
 
+#02_lists
+https://colab.research.google.com/drive/18MaD3uvyRG9Hu0sz5kWtlyQbV5iwMdG9?usp=sharing
+
