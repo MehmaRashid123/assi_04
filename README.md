@@ -12,3 +12,5 @@ https://colab.research.google.com/drive/1xgR0OGMagHRLn5QprvIi-W5Qda6EcUyN?usp=sh
 #04_dictionaries
 https://colab.research.google.com/drive/1HG36l9-fI8HG_3mfeOzPKLtSVlNoHbg1?usp=sharing
 
+#05_loops_control_flow
+https://colab.research.google.com/drive/1-Mfy3w9Ij0Yg7NpSJGARZy9TyG4ztVUf?usp=sharing
